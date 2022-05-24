@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin-left: 450px;
+  width: 500px;
+  border: solid;
+  background-color:lightgoldenrodyellow;
+  border-radius: 10px;
+}
+
+.itembox {
+  margin: 10px;
+  background-color: rgb(22, 193, 76);
+  border-radius: 20px;
+  text-align: right;
+  height: 50px;
+}
+
+.item {
+  display: inline;
+  margin: 10px;
+  float: left;
+  text-align: left;
+  
+}
+
+.btn {
+  display: inline;
+  margin: 10px;
+  font-size: 20px;
+}
+
+hr {
+  height: 3px;
+  background-color: chartreuse;
+}
+
+input {
+  height: 25px;
+  width: 250px;
+}
